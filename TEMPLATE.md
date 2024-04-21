@@ -2,58 +2,56 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
-
+> I'm a BSc Computer Science student about to graduate from Mar Ivanios College, Thiruvananthapuram.As a diligent and motivated BSc Computer Science student, I am actively seeking an internship position where I can apply my comprehensive knowledge and skills to contribute meaningfully to your company. My commitment to excellence, coupled with a genuine passion for technology, positions me as a reliable candidate eager to immerse myself in real-world challenges. I have basic knowledge about concepts and coding in `Javas`, `Python`,`C++`,`HTML`,`PHP` and experience in working with `MySQL` database.
+---
 ## Portfolio Highlights
 
 ### My Projects
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **EV Locator**      | An app used to locate EV station with slot booking feature.               |                                          |                                                                |
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Led a group project as a part of final year project.
+- Volunteered for Covid-19 management activities at COVID SURVEILLANCE CELL-DMO(H) for “Covid Jagratha(Govt. of Kerala) portal data management.
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- I am very new to this feild so I have no experience in networking. I only done my researches and networking in LinkedIn to get to know about others who are pursuing this feild.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- I want to immedietly take part in any internship programs and workshops inorder to gain insights , experience and for improving my skills.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups.
+- Collaboration between academia, government, and industry will be key to achieving this vision.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- Nil
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
+-  Nil
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Nil
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Nil
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- Nil
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+
 
 ---
 
