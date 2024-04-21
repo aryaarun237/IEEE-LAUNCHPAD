@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>I am a BSc Computer Science student, I am actively seeking an internship position where I can apply my comprehensive knowledge and skills to contribute meaningfully to your company. My commitment to excellence,coupled with a genuine passion for technology, positions me as a reliable candidate eager to immerse myself in real-world challenges. I have basic knnowlegde in languages Java, C++, HTML, PHP and has experience in working with MySQL databses.
 
 
 ## Portfolio Highlights
@@ -11,8 +11,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **EV Charging station finder** | It is an android app developed using Kotlin language as my final year college project.                                              |     |              |
 
 #### Leadership and Influence:
 
